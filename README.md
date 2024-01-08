@@ -1,6 +1,6 @@
 ![Link](https://github.com/sidhiqali/sidhiqali/blob/main/sidhiq-ali.png)
 # 💫 About Me:
-🌱 I’m currently learning Next, React, Tailwind, Typescript, Node, Micro-services, Docker<br>💬 Ask me about React, Next , Tailwind<br>📫 How to reach me sidhiqsidhiqali@gmail.com
+🌱 I’m currently working on Next, React, Angular, Tailwind, Typescript, Node, Micro-services, Docker<br>💬 Ask me about React, Next , Tailwind<br>📫 How to reach me sidhiqsidhiqali@gmail.com
 
 
 ## 🌐 Socials:
