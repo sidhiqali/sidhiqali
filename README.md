@@ -76,9 +76,6 @@ Detects API evolution and documentation drift using OpenAPI spec diffing • Imp
 
 Built backend for **100,000+ employee checks** (McDonald's, Starbucks Australia) • Optimized queries reducing verification time from minutes to milliseconds • Load-tested to ~10k req/s
 
-### 📚 [DailyDSA](https://github.com/sidhiqali/DailyDSA) 
-> **DSA Practice Repository** • `JavaScript` `Algorithms`
-
 Daily coding practice with algorithmic solutions • Competitive programming focus • Well-documented code with complexity analysis
 
 ---
