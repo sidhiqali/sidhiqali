@@ -11,7 +11,7 @@
      < Full-Stack Engineer & Code Architect />
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=%3E+const+developer+%3D+new+Engineer()+%3C;%3E+while(learning)+%7B+code()+%7D+%3C;%3E+git+commit+-m+%22building+the+future%22+%3C" alt="Code Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=%3E+while(!success)+%7B+try_again();+%7D+%3C;%3E+code+%2B+caffeine+%2B+chaos+%3D+masterpiece+%3C;%3E+const+mindset+%3D+%5B'learn'%2C+'build'%2C+'repeat'%5D%3B+%3C" alt="Code Animation" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/sidhiqali)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:sidhiqsidhiqali@gmail.com)
