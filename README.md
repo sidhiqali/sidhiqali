@@ -11,9 +11,7 @@
      < Full-Stack Engineer & Code Architect />
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Sidhiq%20Ali&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MSc%20Software%20Engineering&descAlignY=51&descSize=20" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=👋+Welcome+to+my+digital+realm!;🚀+Building+scalable+web+applications;🎯+Turning+ideas+into+reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=%3E+const+developer+%3D+new+Engineer();+%3C;%3E+while(learning)+%7B+code();+%7D+%3C;%3E+git+commit+-m+%22building+the+future%22+%3C" alt="Code Animation" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/sidhiqali)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:sidhiqsidhiqali@gmail.com)
