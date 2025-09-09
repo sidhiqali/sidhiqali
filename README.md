@@ -8,7 +8,7 @@
   ____) |_| |_| |__| | |  | |_| || |__| |  
  |_____/|_____|_____/|_|  |_|_____\___\_\  
                                           
-     < Full-Stack Engineer & Code Architect />
+< Full-Stack Engineer & Code Architect />
 ```
 </div>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=%3E+while(!success)+%7B+try_again()+%7D+%3C;%3E+code+%2B+caffeine+%2B+chaos+%3D+masterpiece+%3C;%3E+const+mindset+%3D+%5B'learn'%2C+'build'%2C+'repeat'%5D%3B+%3C" alt="Code Animation" />
