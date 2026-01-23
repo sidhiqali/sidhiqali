@@ -37,7 +37,7 @@ const developer = {
 
 ## 💼 Professional Experience
 
-**🔵 Software Engineering Intern @ Cubble** *(July 2025 - Present)*  
+**🔵 Software Engineer @ MI Health** *(Dec 2025 - Present)*  
 → Collaborating with 100+ global contributors • Improved API performance by ~40%
 
 **🟢 Full Stack Developer @ Bititude Technologies** *(Aug 2023 - Sep 2024)*  
