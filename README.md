@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-**MSc Software Engineering @ University of Hertfordshire** (Sep 2025) building scalable web applications as **Software Engineering Intern @ Cubble**. Passionate about API design, performance optimization, and creating tools that solve real problems.
+**MSc Software Engineering @ University of Hertfordshire** (Sep 2025) building scalable web applications as **Software Engineer@ MIHealth**. Passionate about API design, performance optimization, and creating tools that solve real problems.
 
 ```javascript
 const developer = {
