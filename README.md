@@ -68,14 +68,6 @@ const developer = {
 
 Detects API evolution and documentation drift using OpenAPI spec diffing • Implements semantic versioning rules for breaking changes • Modular services with CI/CD integration planned
 
-### 💼 [Check Work Rights](https://github.com/sidhiqali/check-work-rights) 
-> **Enterprise Verification Platform** • `NestJS` `MySQL` `Redis` `REST`
-
-Built backend for **100,000+ employee checks** (McDonald's, Starbucks Australia) • Optimized queries reducing verification time from minutes to milliseconds • Load-tested to ~10k req/s
-
-Daily coding practice with algorithmic solutions • Competitive programming focus • Well-documented code with complexity analysis
-
----
 
 ## 📈 Git Consistency
 
