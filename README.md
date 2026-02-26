@@ -27,10 +27,8 @@
 ```javascript
 const developer = {
     name: "Sidhiq Ali",
-    focus: "API Evolution Tracking & Documentation",
-    currentProject: "APILens - Solving API documentation drift",
+    currentProject: "APILens - Solving API Evolution Tracking & Documentation",
     learning: ["System Design", "Performance Optimization", "Cloud Architecture"],
-    goal: "Full-time Software Engineering role in the UK",
     motto: "Building the future, one commit at a time"
 };
 ```
